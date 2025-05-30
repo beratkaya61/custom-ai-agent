@@ -1,0 +1,4 @@
+openai-whisper
+
+
+# pip install -r requirements.txt
