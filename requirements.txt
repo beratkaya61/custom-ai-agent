@@ -1,4 +1,10 @@
 openai-whisper
 librosa
+transformers 
+torch 
+sentence-transformers
+scikit-learn
+huggingface_hub
+hf_xet
 
 # pip install -r requirements.txt

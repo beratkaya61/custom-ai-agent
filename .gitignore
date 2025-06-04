@@ -1,6 +1,9 @@
 # Ignore Python virtual environment
 venv/
 
+#ignore interview_results.json
+interview_results.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
