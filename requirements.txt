@@ -7,5 +7,38 @@ scikit-learn
 huggingface_hub
 hf_xet
 openai
+ipycytoscape
+pandas
+python-dotenv
+accelerate
+jupyterlab
+# TTS==0.22.0  
+    # git clone https://github.com/coqui-ai/TTS.git 
+    # cd TTS
+    # pip install -e .[all]
+# soundfile 
+# IPython
+# langdetect
+
 
 # pip install -r requirements.txt
+# to use jupyter lab, run the following command
+    # jupyter lab
+
+
+# Install Visual C++ Build Tools
+# This is the real cause of the error. You must install C/C++ compilers for Windows.
+
+# Go to: https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
+# Download and run the installer.
+
+# ✅ Select:
+
+# ✔️ Desktop development with C++
+
+# ✔️ C++ CMake tools for Windows
+
+# ✔️ Windows 10 SDK
+
+# and then pip install llama-cpp-python --prefer-binary --no-cache-dir --force-reinstall
